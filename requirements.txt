@@ -1,0 +1,5 @@
+geopandas>=0.14
+shapely>=2.0
+pandas
+openpyxl
+matplotlib
