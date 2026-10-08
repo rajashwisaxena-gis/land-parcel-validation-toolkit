@@ -50,5 +50,8 @@ Python, GeoPandas, Shapely, pandas, openpyxl, Matplotlib. Data viewed and checke
 - Uses a simple buffer corridor; real schemes use defined limits of deviation and ownership data from official records.
 - Sample data is a regular grid, not real cadastral parcels.
 
+## Example output
+![Land plan](land_plan.png)
+
 ## Author
 Rajashwi Saxena - M.Sc. Geoinformatics, TERI School of Advanced Studies
